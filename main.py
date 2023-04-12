@@ -1,3 +1,5 @@
+from example import words
+
 # Proyecto para practicar ramas
 
 """
@@ -7,3 +9,12 @@ en python
 """
 
 print ("Basic operations")
+
+print (words)
+# Addition operation
+
+# Rest operation
+
+# Multiplication operation
+
+# Division operation

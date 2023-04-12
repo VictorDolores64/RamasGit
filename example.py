@@ -1,0 +1,1 @@
+words = ['house', 'car', 'dog', 'kitchen']
