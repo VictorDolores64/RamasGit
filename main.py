@@ -1,4 +1,5 @@
 from example import words
+from suma import suma;
 
 # Proyecto para practicar ramas
 
